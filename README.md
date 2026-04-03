@@ -31,7 +31,7 @@ hostname  # e.g. lxplus905.cern.ch
 
 source /cvmfs/sft.cern.ch/lcg/views/LCG_109_cuda/x86_64-el9-gcc13-opt/setup.sh
 
-git clone https://gitlab.cern.ch/das-hefei2026/exercise.git .
+git clone https://gitlab.cern.ch/das-hefei2026/exercise.git
 cd exercise/Short_exercise/Machine_Learning
 jupyter lab --no-browser
 ```
